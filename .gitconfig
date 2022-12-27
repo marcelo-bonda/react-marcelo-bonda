@@ -1,0 +1,8 @@
+[core]
+	editor = \"C:\\Users\\Micae\\AppData\\Local\\Programs\\Microsoft VS Code\\bin\\code\" --wait
+[user]
+	name = marcelo bonda
+	email = marcelo.pf16@gmail.com
+[init]
+	defaultranch = main
+	defaultbranch = main
